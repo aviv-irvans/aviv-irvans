@@ -43,7 +43,6 @@ I enjoy understanding how things work, experimenting with ideas, and turning rea
 > ⚡ I'm not trying to know everything.
 > I'm trying to get better every day.
 
----
 
 ## ⚙️ `tech_stack`
 
@@ -62,7 +61,6 @@ I enjoy understanding how things work, experimenting with ideas, and turning rea
 <img src="https://skillicons.dev/icons?i=python,docker,mysql" />
 
 </div>
----
 
 
 ## 📡 `connect`
