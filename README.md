@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Animasi ASCII](path/to/animation.gif)
 
 <!--
 **aviv-irvans/aviv-irvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
