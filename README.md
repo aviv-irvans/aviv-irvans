@@ -4,8 +4,7 @@
 
 ### `Informatics Student` • `Aspiring Developer` • `Problem Solver`
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Learning+%E2%86%92+Building+%E2%86%92+Improving;Turning+ideas+into+code+%F0%9F%92%BB;Still+learning%2C+still+building+%F0%9F%9A%80](https://readme-typing-svg.demolab.com/demo/?weight=700&size=32&duration=4000&pause=300&lines=fokus+fesnuk)" alt="Typing SVG" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=300&width=435&lines=fokus+fesnuk" alt="Typing SVG" /></a>
 <br>
 
 <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
