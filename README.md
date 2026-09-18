@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey Antek Antek
-
+<a href="https://framerusercontent.com/assets/OD2NZPrtiXBEpyr80sHkI8UOSI.mp4" /></a>
 ### `Informatics Student` • `Masih Pemula` • `Sahabat Erorr`
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=300&center=true&vCenter=true&width=435&lines=fokus+fesnuk" alt="Typing SVG" /></a>
