@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey Antek Antek
-<img src="https://github.com/aviv-irvans/aviv-irvans/raw/main/atomic_ascii_readme.gif" width="480">
+<img src="https://github.com/aviv-irvans/aviv-irvans/raw/main/atomic_ascii_readme.gif" width="600">
 ### `Informatics Student` • `Masih Pemula` • `Sahabat Erorr`
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=300&center=true&vCenter=true&width=435&lines=fokus+fesnuk" alt="Typing SVG" /></a>
